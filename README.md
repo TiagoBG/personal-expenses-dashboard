@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Personal Expenses Dashboard
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Keep track of your expenses so you can have a better understanding of your personal economy
 
 ## Available Scripts
 
